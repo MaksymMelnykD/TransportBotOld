@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rozklad-dnipro-bot",
+  "private_key_id": "f515f89d3ff9dfa0746067e1ef64a2d7da521a6e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDN0kK7ybA2ieWx\nniHspQMMbIrRLeOiqXeZU5FctlAvc1P3QWlIQXfDYLXCccqmbVW5cQ7baU34GJru\n3MUnp1JtaqnVJnC10U7h6JCNPIN095hmvPxvdR2KNWlOCqzCMV+p+o+zoWvp/ibv\nc5RxxM3qBjTKhXgiyVM8OMocGqfmztm5L/sNAfibNOMeccRbcB7xIaehpp9nob6y\nrdrlrYwL4FJkOQI5o/Dix1lSICok38xeP8yIsXYXr+cqs7GXQ6VbFBM0uj52zP4g\nqAFoqzSFeTRvdQU2jwFHJpD9MtCADrRVL3v5qdfZ6bR8xnXxFsdOvrQ/pJMXccow\nBAHtSyBPAgMBAAECggEAB0pMoCeDXQCCvkks8nDggW7Rdpn613whMbEgE6ScL9IU\nm0wZ1TwHE0iNp5bYPWTfWx4sueDU/itWRuJS/sCSeYWvAPnHlukUXjQan/tmEfKN\n12Bs9esJYifaKbApxlxxWFf5Ab0p/AkgipgRc1DWlP97RzZ1tuW3/l4UlUJByDm4\ngGhtPBUKYGO6VUevLF3RpX89/4D4jiBrX0Pbc1R/i44pjMlIC5BNvSIe/TUFkz5X\npSC3tPqduDv0HDV+RMMc0bs+03xCIQA9mkIRerBG+sixTHwMPjb2QSXR+SfUMLzd\npt4l0wiQDA9UzDrYz5JBhHqpnakD+pxe190zuGPU4QKBgQDrP9bUz8ROMPwTKuTj\nsZcsARlRmrnFrgnZaJzJmLSmmA8+4spfPehE6UCkz0RKcXH4UvBv3Bew/rEOrAKw\nIYPiokdNBvjbUvcsUgc1Ny58M0jvhChqqmgxBetnqOYy+I3gkD9PeH8PTx9U4PF0\nkhM9GfeAGtfNLs47dl78Vr+a5QKBgQDf+ehVh9WVOu+57lQRxRZ8Dl9LIx+4ciun\nkQafSSeh9EpDjqXVLbBaWuIm1jr/SSB1s6IN93ufb0WI7WJb76Q8hsxrJxerfibY\nvJQIsO0F6mnA5Iip4mfmvXkpvIAUITFO322GN4erEKrP2aD8GuOoouSHL9T5RIBm\ntDL2j673IwKBgCuR9U4Q9QCuXeGG7kGloKQLyA6vI30TUMutbmyAFeVNAHXbNzQQ\nmTY6JTjhEnrfLAacBeAR2Wl0ooJfJVhNvMl62M3RXsHwScsxnhgjEj76mKWTypCG\n4ylBOWpHg+so0c4nqTIk1ROWyezEhLPcYifM6WQWlKVx58xnjgwaXP5pAoGBAL9w\nC3WPtK7owR5a5uCJZL6ESk8epm4wp7+B5fcfwBBdjVxRAM1FUAbqx4IKekLZbjUs\nZMcrUS7lHLn8rKWIHwjc7rxnnYOnP+zgwmbrUqxLwDhvHaCXM9e0+2sBAzgxZsPT\nlPmzXPKKPHWLvl29Xfk1wb8K0y57roQaYbT8+r+hAoGAHeJ1nszSFAV98lKeVL1d\nQCf/EZe3WGEN31gp+ldQ9wLQ9Y5Oq0KzpJ0ortJ8l0GUgk/O/Z+3ePYXVrdxA1Ek\nM1rjLCExH6KZE7HXVxglwQ05AapY5gFIs/TkqLril+GACIGnPWuqOeDycQUsrCsZ\n2xSF+VraAo79pJl5VkwG87w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rozklad-dnipro-account@rozklad-dnipro-bot.iam.gserviceaccount.com",
+  "client_id": "118025438944494752431",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rozklad-dnipro-account%40rozklad-dnipro-bot.iam.gserviceaccount.com"
+}

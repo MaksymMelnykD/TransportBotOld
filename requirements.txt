@@ -1,0 +1,16 @@
+Pyrogram~=2.0.27
+APScheduler~=3.9.1
+loguru~=0.6.0
+google-api-python-client~=2.51.0
+google-auth-httplib2
+google-auth-oauthlib
+oauth2client~=4.1.3
+TgCrypto
+httplib2~=0.20.4
+requests~=2.28.0
+beautifulsoup4~=4.11.1
+lxml
+Pillow~=9.1.1
+cssutils~=2.4.2
+PyMySQL~=1.0.2
+pandas
